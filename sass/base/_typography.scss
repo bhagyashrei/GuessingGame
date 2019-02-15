@@ -8,7 +8,7 @@ body {
 }
 
 .heading-primary {
-    color: $color-white;
+    color: black;
     text-transform: uppercase;
 
     backface-visibility: hidden;
@@ -44,7 +44,7 @@ body {
     text-transform: uppercase;
     font-weight: 700;
     display: inline-block;
-    background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
+    background-image: linear-gradient(to right, black, grey);
     -webkit-background-clip: text;
     color: transparent;
     letter-spacing: .2rem;
